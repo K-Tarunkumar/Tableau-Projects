@@ -1,6 +1,3 @@
-Here’s a **clean, professional, and portfolio-ready README rewrite** for your **UT Mart Sales Analytics** project. I’ve improved grammar, clarity, and structure while keeping it simple and business-focused.
-
----
 
 # 📊 What is Tableau?
 
