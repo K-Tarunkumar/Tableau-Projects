@@ -20,7 +20,7 @@ A collection of **real-world analytics dashboards** built using Tableau to stren
 
 ### 1. Amazon Shipping Analytics Dashboard
 
-<img src="https://github.com/tarun/Tableau-Projects/blob/master/Amazon%20Shipping%20Analytics/Screenshots/Amazon%20Shipping%20Analytics%20Image.PNG" alt="Amazon Shipping Analytics Dashboard"/>
+<img src="[https://github.com/tarun/Tableau-Projects/blob/master/Amazon%20Shipping%20Analytics/Screenshots/Amazon%20Shipping%20Analytics%20Image.PNG](https://github.com/K-Tarunkumar/Tableau-Projects/blob/main/Tesla%20Stock%20Price/Sceenshots/Tesla%20Analytics%20Image.PNG)" alt="Amazon Shipping Analytics Dashboard"/>
 
 ### 2. Tesla Stock Price Analytics Dashboard
 
